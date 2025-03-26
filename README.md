@@ -3,6 +3,10 @@
 - 🖥️ Hoje trabalho como suporte técnico
 - 💾 Estudando redes e cybersecurity
 
+<div class="silverGif">
+<img align="right" height="190"" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJrZ2Q2MWxqNXQwYnJscDhuMDJyNzVzaXB3N2N2emN4aDQ2b3lvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5jtLIpiw2n7oaEw77x/giphy.gif"  />
+</div>
+
 <h3>💜 Me encontre!</h3>
 
 <div align="left">
@@ -16,6 +20,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
+
+
 
 <h3>💜 Github stats!</h3>
 
