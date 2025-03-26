@@ -1,11 +1,12 @@
 ## Hi! Eu sou a Jéssica Rodrigues 
 
+<div class="silverGif">
+<img align="right" height="190" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJrZ2Q2MWxqNXQwYnJscDhuMDJyNzVzaXB3N2N2emN4aDQ2b3lvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5jtLIpiw2n7oaEw77x/giphy.gif" />
+</div>
+
+
 - 🖥️ Hoje trabalho como suporte técnico
 - 💾 Estudando redes e cybersecurity
-
-<div class="silverGif">
-<img align="right" height="190"" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJrZ2Q2MWxqNXQwYnJscDhuMDJyNzVzaXB3N2N2emN4aDQ2b3lvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5jtLIpiw2n7oaEw77x/giphy.gif"  />
-</div>
 
 <h3>💜 Me encontre!</h3>
 
